@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_group"]=self["webpackChunkvue_group"]||[]).push([[653],{6653:function(e,t,r){r.r(t),r.d(t,{default:function(){return o}});var n=function(){var e=this,t=e._self._c;return t("el-container",[t("div",{staticClass:"lrbox"},[t("div",{staticClass:"loginRegister"},[t("transition",[t("router-view",{key:e.key})],1)],1)])])},u=[],i={name:"LoginRegister",data(){return{}},computed:{key(){return this.$route.path}}},s=i,a=r(1001),c=(0,a.Z)(s,n,u,!1,null,"251ccfcf",null),o=c.exports}}]);
+//# sourceMappingURL=653.731c92ec.js.map

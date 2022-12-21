@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_group"]=self["webpackChunkvue_group"]||[]).push([[172],{7172:function(u,e,n){n.r(e),n.d(e,{default:function(){return f}});var r=function(){var u=this,e=u._self._c;return e("div",[u._v("this is permission manege")])},s=[],t={},i=t,l=n(1001),c=(0,l.Z)(i,r,s,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=172.bb588b35.js.map

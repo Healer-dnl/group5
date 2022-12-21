@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_group"]=self["webpackChunkvue_group"]||[]).push([[589],{5589:function(u,e,n){n.r(e),n.d(e,{default:function(){return f}});var r=function(){var u=this,e=u._self._c;return e("div",[u._v("this is role manege")])},l=[],t={},s=t,i=n(1001),c=(0,i.Z)(s,r,l,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=589.eed673db.js.map
